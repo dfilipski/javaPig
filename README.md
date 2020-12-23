@@ -6,7 +6,7 @@ This is a two player version of the pig dice game in Java.
 - [x] Add win condition
 - [ ] Add bot support
 
-Here are the rules copied from Wikipedia :pray:
+## Rules
 
 Each turn, a player repeatedly rolls a die until either a 1 is rolled or the player decides to "hold":
 
